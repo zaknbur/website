@@ -1,7 +1,8 @@
 repo_name: zaknbur/website
 report_id: 2f401a24de178f8da9d0234479bb6dc6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:34:27+00:00'
+timestamp: '2024-01-05T08:35:22+00:00'
 requested_by: astrofrog
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-06-11 20:20:36.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/website
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/website
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-06-11 20:20:36.000000000 Z
@@ -58,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Julia Signell
   last_updated_on: 2019-07-18 20:35:31.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-07-01 14:49:44.000000000 Z
@@ -80,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-06-11 20:20:36.000000000 Z
@@ -92,6 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-07-01 14:49:44.000000000 Z
@@ -101,6 +110,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/tools/template.html
   detection_source: tools/template.html
   last_updated_by: Julia Signell
   last_updated_on: 2019-06-17 14:29:18.000000000 Z
@@ -113,6 +123,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/zaknbur/website/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Julia Signell
   last_updated_on: 2019-07-01 14:49:44.000000000 Z
